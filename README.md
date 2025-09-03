@@ -23,7 +23,7 @@ Passionate about bridging **research and engineering** to bring innovative ML so
 ---
 
 ## 🤝 Let’s Connect!  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/vijay-vignesh)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vijay-vignesh-0002)  
 - 📧 Reach me at: *vijayvigneshp02@gmail.com*
   
 ---
