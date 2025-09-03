@@ -16,18 +16,18 @@ Passionate about bridging **research and engineering** to bring innovative ML so
 
 ## 🛠️ Tech Stack  
 **Languages:** Python • C++ • C  
-**ML/DL:** PyTorch • TensorFlow • NumPy • scikit-learn • OpenCV
-**Cloud & DevOps:** AWS • Docker • SageMaker • BYOC • Git  
+**ML/DL:** PyTorch • TensorFlow • NumPy • scikit-learn • OpenCV  
+**Cloud & DevOps:** AWS • Lambda • SageMaker • Azure • Git  
 **Other Tools:** Unity • Flutter • Pygame  
 
 ---
 
-## 📈 GitHub Stats  
+<!-- ## 📈 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VijayVignesh1&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayVignesh1&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
+</p> -->
 
 ---
 
