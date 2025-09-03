@@ -22,6 +22,12 @@ Passionate about bridging **research and engineering** to bring innovative ML so
 
 ---
 
+## 🤝 Let’s Connect!  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vijay-vignesh)  
+- 📧 Reach me at: *vijayvigneshp02@gmail.com*
+  
+---
+
 <!-- ## 📈 GitHub Stats  
 
 <p align="center">
@@ -29,6 +35,3 @@ Passionate about bridging **research and engineering** to bring innovative ML so
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayVignesh1&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p> -->
 
-## 🤝 Let’s Connect!  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/vijay-vignesh)  
-- 📧 Reach me at: *vijayvigneshp02@gmail.com*  
