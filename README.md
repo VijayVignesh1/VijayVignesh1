@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I’m Vijay Vignesh Prasad Rao  
 
-<!--
-**VijayVignesh1/VijayVignesh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Machine Learning Engineer @ Gentex**  
+I build **production-ready AI systems** that make a real-world impact.  
+Passionate about bridging **research and engineering** to bring innovative ML solutions from idea → deployment.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+- 🧠 Strong background in **Computer Vision, NLP, and multimodal AI**  
+- ☁️ Skilled in **cloud-native ML** (AWS, Azure DevOps)  
+- 🏆 **Hackathon finalist** @ OpenCV Hackathon + **Runner up** @ Smart India Hackathon + **special prize** @ PAN IIT Hackathon  
+- 📜 **Patent holder** + multiple **research publications** in applied ML
+  
+---
+
+## 🛠️ Tech Stack  
+**Languages:** Python • C++ • C  
+**ML/DL:** PyTorch • TensorFlow • NumPy • scikit-learn • OpenCV
+**Cloud & DevOps:** AWS • Docker • SageMaker • BYOC • Git  
+**Other Tools:** Unity • Flutter • Pygame  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VijayVignesh1&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayVignesh1&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect!  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vijay-vignesh)  
+- 📧 Reach me at: *vijayvigneshp02@gmail.com*  
